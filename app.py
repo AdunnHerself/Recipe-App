@@ -131,7 +131,7 @@ def main():
 
         If you'd like to get in touch with me, feel free to reach out via email or connect with me on social media.
         """)
-        st.image("C:\\Users\\User\\Desktop\\Food Recipe\\AdunImg.jpeg", width=300)  
+        st.image("AdunImg.jpeg", width=300)  
         st.write("Email: lasisiromoke4@gamil.com")
         st.write("[LinkedIn](https://www.linkedin.com/in/romoke-lasisi/)")
         #st.write("[GitHub](https://github.com/yourusername)")
